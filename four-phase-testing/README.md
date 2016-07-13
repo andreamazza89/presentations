@@ -6,6 +6,8 @@ Much like the [diagramming presentation] (https://github.com/andreamazza89/prese
 the focus is on simplifying our lives as develpers, making big tasks easier by 
 breaking them down.
 
+Here is a link to the [slideshow] (https://www.dropbox.com/s/jqyg2kcw25qfqf2/four-phase-testing.key?dl=0)
+
 ## Practice
 Build a tiny traffic system to practice the four-phase-test pattern.
 
