@@ -9,13 +9,13 @@ not need step 4 as this is 'automatic', but it is still good to consider all ste
 - The public inerface of the traffic light is fairly simple and consists of two 
 instance methods: #state and #next 
 
-- #state returns the current state of the traffic light, which should be one of 
+- .#state returns the current state of the traffic light, which should be one of 
 the following three symbols: `:stop`, `:wait`, `:go` 
 
 - When instantiated, a traffic light objects state should be `stop` for safety 
 reasons
 
-- #next changes the state of the traffic light to the next state. The sequence 
+- .#next changes the state of the traffic light to the next state. The sequence 
 of states should be as follows: :go -> :wait -> :stop -> :wait -> go -> :wait, 
 etc
 
