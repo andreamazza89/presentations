@@ -13,7 +13,8 @@ Build a traffic light to practice the four-phase-test pattern.
 
 1. Fork this repo
 2. Clone it
-3. Run `bundle`
-4. Read the [requirements] (https://github.com/andreamazza89/presentations/blob/master/four-phase-testing/traffic_light/doc/requirements.md)
-5. Create a new branch, craft some wonderful code, create a pull request so I 
+3. `cd` into `traffic_light`
+4. Run `bundle`
+5. Read the [requirements] (https://github.com/andreamazza89/presentations/blob/master/four-phase-testing/traffic_light/doc/requirements.md)
+6. Create a new branch, craft some wonderful code, create a pull request so I 
 can marvel at it.
