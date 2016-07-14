@@ -1,6 +1,6 @@
 class TrafficLight
 attr_reader :state
-
+  
   def initialize
     @state = :stop
     @states = [:wait, :go, :wait, :stop]

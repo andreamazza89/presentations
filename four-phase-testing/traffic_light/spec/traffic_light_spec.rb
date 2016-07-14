@@ -3,7 +3,7 @@ require_relative '../lib/traffic_light.rb'
 #The TrafficLight class is responsible to show the state of Traffic Light
 describe TrafficLight do
 let(:subject) {described_class.new}
-
+   
   it 'checks that initially traffic light object state is stop' do
 expect(subject.state).to eq :stop
 end
